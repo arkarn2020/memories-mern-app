@@ -4,6 +4,13 @@
 
 click to see [site running live](https://ark-memories.netlify.app/)
 
+Folder structure
+> client folder structure
+![client](./assets/client.png)
+
+> server folder structure
+![server](./assets/server.png)
+
 
 ### client code inside client folder
 
@@ -33,3 +40,4 @@ click to see [site running live](https://ark-memories.netlify.app/)
 ### Deploying on production
 
 in progress...
+
