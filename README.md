@@ -4,9 +4,8 @@
 
 click to see [site running live](https://ark-memories.netlify.app/)
 
-> Folder structure
+> Folder structure client & server
 
--------Client folder --------------Server folder------------
 ![client](./assets/client.png) ![server](./assets/server.png)
 
 ### client code inside client folder
