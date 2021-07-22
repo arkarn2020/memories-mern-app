@@ -1,8 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d46168b-2523-4286-b2f7-137a9d5ddd9e/deploy-status)](https://app.netlify.com/sites/ark-memories/deploys)
+
 ## Memories web application built using MERN stack.
 
-[click to check site running live] (https://ark-memories.netlify.app/)
+click to see [site running live](https://ark-memories.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/65ad1b64-a6a3-4cc7-ad09-fe8438284ff5/deploy-status)](https://app.netlify.com/sites/ark-memories/deploys)
 
 ### client code inside client folder
 
