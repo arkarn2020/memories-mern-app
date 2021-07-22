@@ -4,13 +4,10 @@
 
 click to see [site running live](https://ark-memories.netlify.app/)
 
-Folder structure
-> client folder structure
-![client](./assets/client.png)
+> Folder structure
 
-> server folder structure
-![server](./assets/server.png)
-
+-------Client folder --------------Server folder------------
+![client](./assets/client.png) ![server](./assets/server.png)
 
 ### client code inside client folder
 
