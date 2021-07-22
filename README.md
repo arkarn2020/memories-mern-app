@@ -1,6 +1,6 @@
 ## Memories web application built using MERN stack.
 
-[!click to check site running live] (https://ark-memories.netlify.app/)
+[click to check site running live] (https://ark-memories.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/65ad1b64-a6a3-4cc7-ad09-fe8438284ff5/deploy-status)](https://app.netlify.com/sites/ark-memories/deploys)
 
